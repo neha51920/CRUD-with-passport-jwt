@@ -1,8 +1,8 @@
 # CRUD-with-passport-jwt
 
 Endpoints - 
-    signup - /api/signup
-    update - /api/update?id=id
-    login  -  api/login
-    getAllusers - api/getAllUsers
+    signup - /api/signup<br />
+    update - /api/update?id=id<br />
+    login  -  api/login<br />
+    getAllusers - api/getAllUsers<br />
  
